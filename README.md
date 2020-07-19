@@ -5,7 +5,7 @@
 - 📫 How to reach me: linqiaosong@outlook.com
 - ⚡ Fun fact: anime & coding
 - 💬 Favourite programming language: C++
-- 😄 Wanna understand me more? https://orcid.org/0000-0003-4347-3361 and https://www.researchgate.net/profile/Qiaosong_Lin is available!
+- 😄 Wanna understand me more? https://orcid.org/0000-0003-4347-3361 and https://www.researchgate.net/profile/Qiaosong_Lin are available!
 
 <!--
 **Linqiaosong/Linqiaosong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
