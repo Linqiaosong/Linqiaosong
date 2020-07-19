@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! This is Qiaosong Lin~ 👋
+
+- 🔭 I’m currently working on BS in Wuhan University.
+- 🌱 I’m currently learning physical and analytical chemistry.
+- 📫 How to reach me: linqiaosong@whu.edu.cn
+- ⚡ Fun fact: anime & coding
 
 <!--
 **Linqiaosong/Linqiaosong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
