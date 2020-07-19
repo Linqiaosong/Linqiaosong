@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on BS in Wuhan University.
 - 🌱 I’m currently learning physical and analytical chemistry.
-- 📫 How to reach me: linqiaosong@whu.edu.cn
+- 📫 How to reach me: linqiaosong@outlook.com
 - ⚡ Fun fact: anime & coding
 
 <!--
