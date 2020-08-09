@@ -1,3 +1,7 @@
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Linqiaosong&show_icons=true&hide_border=true" alt="Linqiaosong's Github Stats"></img>
+</div>
+
 ### Hi! This is Qiaosong Lin~ 👋
 
 - 🔭 I’m currently working on BS in Wuhan University.
