@@ -4,8 +4,8 @@
 
 ### Hi! This is Qiaosong Lin~ 👋
 
-- 🔭 I’m currently working on BS in Wuhan University.
-- 🌱 I’m currently learning physical and analytical chemistry.
+- 🔭 I’m currently working on PhD in Chinese Academy of Sciences.
+- 🌱 I’m currently learning physical chemistry.
 - 📫 How to reach me: linqiaosong@outlook.com
 - ⚡ Fun fact: anime & coding
 - 💬 Favourite programming language: <a href="https://isocpp.org/">  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" />  </a>
