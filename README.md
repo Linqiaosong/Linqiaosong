@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning physical chemistry.
 - 📫 How to reach me: linqiaosong@outlook.com
 - ⚡ Fun fact: anime & coding
-- 💬 Favourite programming language: <a href="https://isocpp.org/">  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" />  </a>
+- 💬 Favourite programming language: <a href="https://www.python.org/">  <img src="https://img.shields.io/badge/Py-Python-green" />  </a> <a href="https://www.mathworks.com/products/matlab.html">  <img src="https://img.shields.io/badge/M-MATLAB-orange" />  </a>
 - 😄 Wanna understand me more? https://orcid.org/0000-0003-4347-3361 and https://www.researchgate.net/profile/Qiaosong_Lin are available!
 
 <!--
